@@ -1,13 +1,13 @@
-<h1 align="center">I'm Matt.</h1>
-<h3 align="center">A passionate, creative Software Engineer.</h3>
+<h1 align="center">Matt Weinstein</h1>
+<h3 align="center">I am a passionate and creative Software Engineer. I love making new projects, fixing old ones, and breaking ones that don't exist yet.</h3>
 
 - 🔭 Lead developer and co-founder of [Club Cherry](https://clubcherry.netlify.app/)
 
-- 🌱 I'm always learning **Node, React, JS, Python, and how the miraculous tubes of the internet work.**
+- 👨‍💻 View my work: **[www.mattweinsteindev.com](www.mattweinsteindev.com)
 
-- 👨‍💻 All of my projects are available at [www.mattweinsteindev.com](www.mattweinsteindev.com)
+- 🌱 Learning: **Node, React, JS, Python, and how the miraculous tubes of the internet work.**
 
-- 📫 How to reach me **mattw412@gmail.com**
+- 📫 Reach me: **mattw412@gmail.com**
 
 - ⚡ Fun fact **Outside of the computer, I love being outdoors. Mountains, oceans, sand, rivers, fields. You name it, I like it.**
 
