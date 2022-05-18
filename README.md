@@ -3,7 +3,7 @@
 
 - 🏌️ Lead developer and co-founder of [Club Cherry](https://clubcherry.netlify.app/)
 
-- 👨‍💻 View my work: **[www.mattweinsteindev.com]**(www.mattweinsteindev.com)
+- 👨‍💻 View my work: **www.mattweinsteindev.com**
 
 - 🧠 Learning: **Node, React, JS, Python, and how the miraculous tubes of the internet work.**
 
