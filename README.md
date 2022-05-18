@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">I'm Matt.</h1>
 <h3 align="center">A passionate, creative Software Engineer.</h3>
 
