@@ -1,5 +1,5 @@
 <h1 align="center">Matt Weinstein</h1>
-<h3 align="center">I am a passionate and creative Software Engineer. I love making new projects, fixing old ones, and breaking ones that don't exist yet.</h3>
+<h3 align="center">A passionate and creative Software Engineer. I love making new projects, fixing old ones, and breaking ones that don't exist yet.</h3>
 
 - 🏌️ Lead developer and co-founder of [Club Cherry](https://clubcherry.netlify.app/)
 
