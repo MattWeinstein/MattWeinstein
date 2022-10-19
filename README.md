@@ -1,5 +1,5 @@
 <h1 align="center">Matt Weinstein</h1>
-<h3 align="center">A passionate and creative Software Engineer. I love making new projects, fixing old ones, and breaking ones that don't exist yet.</h3>
+<h3 align="center">A passionate and creative Software Engineer. I love making new projects, fixing old ones, and playing with existing ones.</h3>
 
 - 👨‍💻 View my work: **www.mattweinsteindev.com**
 
