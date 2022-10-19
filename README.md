@@ -3,8 +3,6 @@
 
 - 👨‍💻 View my work: **www.mattweinsteindev.com**
 
-- 🏌️ Lead developer and co-founder of [Club Cherry](https://clubcherry.netlify.app/)
-
 - 🧠 Using: **Node, JavaScript, HTML, CSS.**
 
 - 📫 Reach me: **mattw412@gmail.com**
