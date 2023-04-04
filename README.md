@@ -3,7 +3,7 @@
 
 - 👨‍💻 View my work: **www.mattweinsteindev.com**
 
-- 🧠 Using: **Node, JavaScript, TypeScript, React, SQL, HTML, CSS.**
+- 🧠 Using: **Node, JavaScript, TypeScript, React, SQL, GraphQL, HTML, CSS.**
 
 - 📫 Reach me: **mattw412@gmail.com**
 
