@@ -7,7 +7,7 @@
 
 - 📫 Reach me: **mattw412@gmail.com**
 
-- ⛰️ About me **Outside of the computer, I love being outdoors. Mountains, oceans, sand, rivers, fields. You name it, I like it.**
+- ⛰️ About me: **Outside of the computer, I love being outdoors. Mountains, oceans, sand, rivers, fields. You name it, I like it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
