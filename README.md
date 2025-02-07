@@ -1,9 +1,9 @@
 <h1 align="center">Matt Weinstein</h1>
 <h3 align="center">A passionate and creative Software Engineer. I love making new projects, fixing old ones, and playing with existing ones.</h3>
 
-- 👨‍💻 View my work: **www.mattweinsteindev.com**
+- 👨‍💻 View my work: **www.mattweinstein.me**
 
-- 🧠 Using: **Node, JavaScript, TypeScript, React, SQL, GraphQL, HTML, CSS.**
+- 🧠 Using: **TypeScript, React, Node, CSS.**
 
 - 📫 Reach me: **mattw412@gmail.com**
 
